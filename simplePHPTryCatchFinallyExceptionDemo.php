@@ -8,8 +8,7 @@
     // 2. try/catch/finally
     // 3. Exception
     //
-    // No warrenty.
-    // No claims.
+    // No warranty. No garuntee. No claims. You use at your own risk.
     //
     function onedividedby($x) {
         if (!$x) {
